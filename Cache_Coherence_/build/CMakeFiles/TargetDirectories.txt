@@ -1,0 +1,4 @@
+/Users/rob/CLionProjects/Cache_Coherence_/build/CMakeFiles/Cache_Coherence_.dir
+/Users/rob/CLionProjects/Cache_Coherence_/build/CMakeFiles/rebuild_cache.dir
+/Users/rob/CLionProjects/Cache_Coherence_/build/CMakeFiles/edit_cache.dir
+/Users/rob/CLionProjects/Cache_Coherence_/build/CMakeFiles/Caches.dir

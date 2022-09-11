@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rob/CLionProjects/Cache_Coherence_/cache.cc
+stdlib.h
+-
+assert.h
+-
+algorithm
+-
+cache.h
+/Users/rob/CLionProjects/Cache_Coherence_/cache.h
+
+/Users/rob/CLionProjects/Cache_Coherence_/cache.h
+cmath
+-
+iostream
+-
+vector
+-
+iomanip
+-
+
